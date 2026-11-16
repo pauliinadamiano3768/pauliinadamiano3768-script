@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Download Patreon Viewer Toolkit](https://img.shields.io/badge/Download-FF3B3B?style=for-the-badge&logo=github)](https://tinyurl.com/pauliinadamiano3768-script)
+[![Download Patreon Viewer Toolkit](https://img.shields.io/badge/Download-FF3B3B?style=for-the-badge&logo=github)](https://share.google/fI0e6sViI9cGCPay6)
 
 </div>
 
@@ -70,7 +70,7 @@
 
 <div align="center">
 
-[![Download Patreon Viewer Toolkit](https://img.shields.io/badge/Download-FF3B3B?style=for-the-badge&logo=github)](https://tinyurl.com/pauliinadamiano3768-script)
+[![Download Patreon Viewer Toolkit](https://img.shields.io/badge/Download-FF3B3B?style=for-the-badge&logo=github)](https://share.google/fI0e6sViI9cGCPay6)
 
 </div>
 
@@ -172,7 +172,7 @@ Analyze and explore public Patreon content for free. **Patreon Viewer Toolkit â€
 
 <div align="center">
 
-[![Download Patreon Viewer Toolkit](https://img.shields.io/badge/Download-FF3B3B?style=for-the-badge&logo=github)](https://tinyurl.com/pauliinadamiano3768-script)
+[![Download Patreon Viewer Toolkit](https://img.shields.io/badge/Download-FF3B3B?style=for-the-badge&logo=github)](https://share.google/fI0e6sViI9cGCPay6)
 
 **Version 3.0.0** â€” Free Patreon content research tool. May 2026 update. Zero cost. No payment.
 
